@@ -41,7 +41,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <cucumber-reporting.version>5.6.1</cucumber-reporting.version>
         <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
         <jmeter.version>5.4.3</jmeter.version>
